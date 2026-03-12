@@ -19,6 +19,20 @@ A high-performance Go backend service that integrates with [MFAPI.in](https://ww
 
 ---
 
+
+## Important files 
+
+```
+1. ai_prompts.md : It have 5 prompts that I had used to make complete project
+2. raw_cursor_logs.md : It have all the cursor logs ( Hard to read as it have so much data)
+3. design_decisions.md : It have all the answer to queries related to design decision.
+4. .cursor : It enforce best software development practises.
+
+```
+
+---
+
+
 ## Features
 
 | Feature | Description |
